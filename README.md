@@ -29,3 +29,6 @@ Instructions for manual setup:
 4.	If you setup SLEA to replace the game launcher (a backup is made), you can play the game directly with the "new" launcher (which is SLEA renamed as the game's original launcher).
 
 5.	Otherwise, you can run your game through SLEA.exe, to automate the opening and closing of the specified ENB Injector.
+
+And that should be it!
+I hope you enjoy this little tool I came up with!
